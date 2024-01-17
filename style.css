@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+.red{
+    padding: 20px 0;
+    width: 400px;
+    min-height: 450px;
+    height: auto;
+    background-color: rgb(119, 0, 0);
+}
+.red-wraper{
+    width: 350px;
+    height: 400px;
+    margin: 0 auto;
+
+}
+.red-wraper h1{
+   margin: 10px 0;
+    color: white;
+    font-size: 25px;
+
+}
+.red-wraper label{
+   
+    color: white;
+    margin 50px 0;
+}
+.name input{
+    margin: 5px 0;
+    padding: 10px 170px 10px 10px;
+}
+.name1 input{
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(255, 179, 0);
+    margin: 10px 0;
+    padding: 12px 30px;
+    
+}
+.name textarea{
+    margin: 5px 0;
+    padding: 10px 155px 10px 10px;
+}
